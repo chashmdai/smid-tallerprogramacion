@@ -1,0 +1,12 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #F4F5F7; /* simdBg */
+  color: #4A4D4E; /* simdTextMain */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

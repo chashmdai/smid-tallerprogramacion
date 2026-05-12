@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "simd.security.encryption.key",
+    "type": "java.lang.String",
+    "description": "A description for 'simd.security.encryption.key'"
+  },
+  {
+    "name": "openai.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'openai.api.key'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  }
+]}
